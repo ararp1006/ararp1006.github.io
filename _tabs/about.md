@@ -10,30 +10,30 @@ published: true
 ### 비즈니스 목표를 이해하고, 기술적 실현을  위해 솔루션을 개발하는 개발자가 되고 싶습니다
 
 
-## Contact Me
+## **Contact Me**
 -  email : [ararp1006@gmail.com](mailto:ararp@gmail.com)
 - phone  : 01036078385
 - git : https://github.com/ararp1006
 - blog : https://ararp1006.github.io/
 
 
-## 💜My Skill💜
-```java
+## 💜**My Skil**💜
+```
 Java
 ```
-```java
+```
 Spring,SpringBoot,SpringSecurity,JPA
 ```
-```java
+```
 Mysql
 ```
-```java
+```
 Gradle
 ```
-```java
+```
 Git
 ```
-## 📚Study📚
+## 📚**Study**📚
 ###  **소프트웨어 엔지니어링 백엔드 부트캠프 | 코드스테이츠** 
 2023.04.11 ~ 2023.10.04 
 
