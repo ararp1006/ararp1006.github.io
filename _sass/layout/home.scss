@@ -4,6 +4,7 @@
 
 #post-list {
   margin-top: 2rem;
+  
 
   .card-wrapper {
     &:hover {
@@ -130,6 +131,7 @@
 
 /* Tablet */
 @media all and (min-width: 768px) {
+
   %img-radius {
     border-radius: 0 $base-radius $base-radius 0;
   }
@@ -168,6 +170,8 @@
 
 /* Sidebar is visible */
 @media all and (min-width: 831px) {
+ 
+
   #post-list {
     margin-top: 2.5rem;
   }

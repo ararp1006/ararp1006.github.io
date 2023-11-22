@@ -3,7 +3,7 @@
 */
 
 %category-icon-color {
-  color: gray;
+  color: purple;
 }
 
 .categories {
@@ -66,7 +66,7 @@
 
   &:hover {
     i {
-      color: var(--categories-icon-hover-color);
+      color: violet;
     }
   }
 }
