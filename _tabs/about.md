@@ -1,8 +1,6 @@
 ---
 icon: fas fa-info-circle
 order: 4
-title: null
-published: true
 ---
 
 # Hi👋 

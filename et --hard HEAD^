@@ -1,0 +1,146 @@
+[33mcommit cdad1a43acd86ee90b0ea19f938a2e1e00957770[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: ararp1006 <ararp1006@gmail.com>
+Date:   Sat Nov 25 02:09:32 2023 +0900
+
+    update
+
+[33mcommit 94e10533c62cdeb3e1077448630188f2b74d5db7[m
+Author: ararp1006 <ararp1006@gmail.com>
+Date:   Sat Nov 25 01:26:21 2023 +0900
+
+     post
+
+[33mcommit ad381d8a892bf046794b83bdedf4e6d73a14e1cd[m
+Author: ararp1006 <ararp1006@gmail.com>
+Date:   Fri Nov 24 23:56:27 2023 +0900
+
+    update
+
+[33mcommit 1355329fcea2f580c4f550a4e39e726c1e742e57[m
+Author: ararp1006 <ararp1006@gmail.com>
+Date:   Fri Nov 24 20:47:44 2023 +0900
+
+    update cloud & font
+
+[33mcommit 88d7f9851ccb897e671a45e4575c9d40e934c03f[m
+Merge: 9761deb ced9a6f
+Author: ararp1006 <ararp1006@gmail.com>
+Date:   Fri Nov 24 19:35:03 2023 +0900
+
+    Merge branch 'main' of https://github.com/ararp1006/ararp1006.github.io
+
+[33mcommit 9761debea88113e0eeb56877cabe74ba6b7208fc[m
+Author: ararp1006 <ararp1006@gmail.com>
+Date:   Fri Nov 24 19:34:33 2023 +0900
+
+     post
+
+[33mcommit ced9a6f570755434a7aeb5cdb92b53a8022f519a[m
+Author: ararp1006 <130068083+ararp1006@users.noreply.github.com>
+Date:   Thu Nov 23 03:12:02 2023 +0900
+
+    Create 2023-11-23-Introduce.md
+
+[33mcommit 1237d3bbd768fff57be18a615e8fbf0776ef6c36[m
+Author: ararp1006 <ararp1006@gmail.com>
+Date:   Thu Nov 23 03:09:02 2023 +0900
+
+    update
+
+[33mcommit d3cdcd4bd413b98c00ba384bfe622de7131a3a5d[m
+Author: ararp1006 <130068083+ararp1006@users.noreply.github.com>
+Date:   Thu Nov 23 02:51:35 2023 +0900
+
+    Update about.md
+
+[33mcommit 7afa5d206037435c619a9957d0aef885e02b6831[m
+Author: ararp1006 <130068083+ararp1006@users.noreply.github.com>
+Date:   Thu Nov 23 02:39:45 2023 +0900
+
+    Update about.md
+
+[33mcommit accb91eefd1a32b5adf9f45c406632dc4c30e30f[m
+Author: ararp1006 <130068083+ararp1006@users.noreply.github.com>
+Date:   Thu Nov 23 02:37:20 2023 +0900
+
+    Update about.md
+
+[33mcommit ae97e20fbad7657fb9f0017069123c81745fa6d6[m
+Author: ararp1006 <ararp1006@gmail.com>
+Date:   Wed Nov 22 23:18:12 2023 +0900
+
+    about
+
+[33mcommit 0ee0979c982121839161f7c2ad0dfd3328c0e978[m
+Author: ararp1006 <ararp1006@gmail.com>
+Date:   Tue Nov 21 18:20:31 2023 +0900
+
+    post
+
+[33mcommit 23b944f0133be5e5a962916d4a292a1b7d9f17ba[m
+Author: ararp1006 <ararp1006@gmail.com>
+Date:   Tue Nov 21 18:00:09 2023 +0900
+
+    post
+
+[33mcommit f71c4bf002112043a4a9521a8e422ba72d3b80ee[m
+Author: ararp1006 <ararp1006@gmail.com>
+Date:   Tue Nov 21 17:16:16 2023 +0900
+
+    img
+
+[33mcommit a45e5830e2f146e156372fb370cfa14eac8e51d2[m
+Author: ararp1006 <ararp1006@gmail.com>
+Date:   Tue Nov 21 17:14:36 2023 +0900
+
+    img
+
+[33mcommit 15e515d813474dc8fefc013d4293471994b44c20[m
+Author: ararp1006 <ararp1006@gmail.com>
+Date:   Tue Nov 21 17:08:43 2023 +0900
+
+    first post
+
+[33mcommit 98c7e25752e4c25c207430537cbed8dd8fb1d2b0[m
+Author: ararp1006 <ararp1006@gmail.com>
+Date:   Tue Nov 21 04:55:00 2023 +0900
+
+    test
+
+[33mcommit 9b1e70dcd5d475426bae5367468340e2829fa106[m
+Author: ararp1006 <130068083+ararp1006@users.noreply.github.com>
+Date:   Tue Nov 21 04:52:30 2023 +0900
+
+    Create jekyll.yml
+
+[33mcommit 9e9655c629e5804c84ba227663f878cf12815aaa[m
+Merge: e00e6ec 30b8c97
+Author: ararp1006 <ararp1006@gmail.com>
+Date:   Tue Nov 21 04:38:36 2023 +0900
+
+    Resolve conflict in README.md
+
+[33mcommit e00e6ec71f17f7d7a0b3dfcaf8986b4d6c8a9559[m
+Merge: 4f0d3f2 3c43056
+Author: ararp1006 <ararp1006@gmail.com>
+Date:   Tue Nov 21 04:37:43 2023 +0900
+
+    Resolve merge conflict in README.md
+
+[33mcommit 30b8c9799642f3893373a60007767fcf372c4e45[m
+Author: ararp1006 <130068083+ararp1006@users.noreply.github.com>
+Date:   Tue Nov 21 04:37:10 2023 +0900
+
+    Delete README.md
+
+[33mcommit 4f0d3f2afb4477ea4fdf46f2d3fc2193561ab9d1[m
+Author: ararp1006 <ararp1006@gmail.com>
+Date:   Tue Nov 21 04:33:49 2023 +0900
+
+    first commit
+
+[33mcommit 3c43056c367d9d1ca21c1220eacd4b56c75c32f3[m
+Author: ararp1006 <130068083+ararp1006@users.noreply.github.com>
+Date:   Tue Nov 21 04:26:51 2023 +0900
+
+    Initial commit
