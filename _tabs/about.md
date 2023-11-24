@@ -35,4 +35,4 @@ published: true
 
 ##  💙**Project**💙
 
-[쇼핑몰 프로젝트](https://github.com/ararp1006/mainProject)
+[쇼핑몰 프로젝트](https://ararp1006.github.io/posts/%EB%A9%94%EC%9D%B8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/)
