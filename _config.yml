@@ -34,7 +34,7 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: 박아름
+  name: ararp1006
   email: ararp1006@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -70,10 +70,10 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: "https://avatars.githubusercontent.com/u/130068083?v=4"
+img_cdn: 
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets/img/profile.jpg
+avatar: assets/img/avatar.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true

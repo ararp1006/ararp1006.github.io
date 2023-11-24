@@ -29,7 +29,7 @@ html {
 }
 
 body {
-  background: var(--main-bg);
+  background:	#f8f8ff;
   padding: env(safe-area-inset-top) env(safe-area-inset-right)
     env(safe-area-inset-bottom) env(safe-area-inset-left);
   color: var(--text-color);
@@ -132,7 +132,7 @@ kbd {
 }
 
 footer {
-  background-color: var(--main-bg);
+  background-color:#f8f8ff;
   height: $footer-height;
   border-top: 1px solid var(--main-border-color);
 
@@ -212,7 +212,7 @@ i {
 #access-lastmod {
   a {
     &:hover {
-      @extend %link-hover;
+     color: #dee4f5;
     }
 
     @extend %no-bottom-border;
@@ -617,7 +617,7 @@ main {
 /* Overwrite bootstrap outline button */
 .btn.btn-outline-primary {
   &:not(.disabled):hover {
-    border-color: #007bff !important;
+    border-color: #f8f8ff !important;
   }
 }
 
@@ -690,7 +690,7 @@ $btn-mb: 0.5rem;
   width: $sidebar-width;
   z-index: 99;
    /*background: var(--sidebar-bg);  */
-  background-color:	#ffe4e1;
+  background-color:	#dee4f5;
   background-size: 100% 100%;
   background-position: center;
 
@@ -756,13 +756,13 @@ $btn-mb: 0.5rem;
       @extend %clickable-transition;
       @extend %sidebar-link-hover;
 
-      color: #e9967a
+      color: #fffafa;
     }
   }
 
   .site-subtitle {
     font-size: 95%;
-    color: #fff5ee;
+    color: #fffafa;
     margin-top : 0.25rem;
     word-spacing: 1px;
     -webkit-user-select: none;
@@ -789,7 +789,7 @@ $btn-mb: 0.5rem;
         font-weight: 600;
 
         &:hover {
-          background-color: var(--sidebar-hover-bg);
+          background-color: #f8f8ff;
         }
 
         i {
@@ -807,7 +807,7 @@ $btn-mb: 0.5rem;
       &.active {
         .nav-link {
           color: var(--sidebar-active-color);
-          background-color: var(--sidebar-hover-bg);
+          background-color: #f8f8ff	;
 
           span {
             opacity: 1;
@@ -833,7 +833,7 @@ $btn-mb: 0.5rem;
       height: $btn-size;
       margin-bottom: $btn-mb; // multi line gap
       border-radius: 50%;
-      color: var(--sidebar-btn-color);
+      color:#f8f8ff;
       background-color: var(--sidebar-btn-bg);
       text-align: center;
       display: flex;
@@ -912,12 +912,12 @@ $btn-mb: 0.5rem;
 
 #topbar-wrapper {
   height: $topbar-height;
-  background-color: var(--topbar-bg);
+  background-color: #f8f8ff;
 }
 
 #topbar {
   button i {
-    color: #999999;
+    color: #f8f8ff;
   }
 
   #breadcrumb {
