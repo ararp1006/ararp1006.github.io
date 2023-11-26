@@ -2,8 +2,8 @@
 title: Auditable 오류 해결
 
 date: 2023-11-23 19:00:00 +0900
-categories: [Blogging, Demo]
-tags: [Project]
+categories: [Blogging, troubleshooting]
+tags: [Project,troubleshooting]
 math: true
 mermaid: true
 
