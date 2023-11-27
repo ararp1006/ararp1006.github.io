@@ -758,11 +758,12 @@ $btn-mb: 0.5rem;
       @extend %clickable-transition;
       @extend %sidebar-link-hover;
 
-      color: black;
+      color: #818182;
     }
   }
 
   .site-subtitle {
+    display: none;
     font-size: 95%;
     color: #fffafa;
     margin-top : 0.25rem;
