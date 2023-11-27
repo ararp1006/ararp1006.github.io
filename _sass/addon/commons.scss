@@ -727,6 +727,7 @@ $btn-mb: 0.5rem;
 
     img {
       width: 100%;
+      height: 100%;
       transition: transform 0.5s;
 
       &:hover {
@@ -757,7 +758,7 @@ $btn-mb: 0.5rem;
       @extend %clickable-transition;
       @extend %sidebar-link-hover;
 
-      color: #fffafa;
+      color: black;
     }
   }
 
@@ -1346,7 +1347,7 @@ search {
     justify-content: center !important;
   }
 
-  h1.dynamic-title {
+  h1.-title {
     display: none;
 
     ~ .content {
