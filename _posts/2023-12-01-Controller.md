@@ -57,9 +57,7 @@ Controller은 MVC에서 C에 해당 하며 주로 사용자의 요청을 처리 
 
 ### **컨트롤러 정의**
 
-[@Controller](https://www.notion.so/Controller-3565cb2d097a429c8f787fbe0a7b37af?pvs=21)
-
-[@RestController](https://www.notion.so/RestController-c5d579aa7c7a49b3aad5252957848897?pvs=21)
+[@Controller vs @RestController](https://www.notion.so/RestController-c5d579aa7c7a49b3aad5252957848897?pvs=21)
 
 ### **메서드 매핑**
 
