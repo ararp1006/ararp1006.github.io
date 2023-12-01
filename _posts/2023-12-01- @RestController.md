@@ -25,7 +25,6 @@ mermaid: true
 기본적으로는 @ResponseBody가 없는 메서드는 View Resolver를 통해 뷰로의 렌더링을 시도한다고 한다.
 
 ```java
-Copy code
 @Controller
 public class MyController {
 
@@ -46,7 +45,6 @@ public class MyController {
 데이터를 직렬화하여 클라이언트에게 전달하고, 주로 AJAX 요청에 대한 응답으로 사용된다.
 
 ```java
-Copy code
 @RestController
 public class MyRestController {
 

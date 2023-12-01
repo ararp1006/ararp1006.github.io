@@ -1,7 +1,7 @@
 ---
-title: Auditable 오류 해결
+title: Controller
 
-date: 2023-11-23 19:00:00 +0900
+date: 2023-12-02 01:00:00 +0900
 categories: [Study, Spring MVC]
 tags: [Study, Controller]
 math: true
@@ -53,23 +53,23 @@ Controller은 MVC에서 C에 해당 하며 주로 사용자의 요청을 처리 
 
 ## ****Controller 구조****
 
-[HandlerMethod](https://www.notion.so/HandlerMethod-27d804bf7ecc4cb0bee73846ce835014?pvs=21)
+[HandlerMethod](https://ararp1006.github.io/posts/HandlerMethod/)
 
 ### **컨트롤러 정의**
 
-[@Controller vs @RestController](https://www.notion.so/RestController-c5d579aa7c7a49b3aad5252957848897?pvs=21)
+[@Controller vs @RestController](https://ararp1006.github.io/posts/2023-12-01-@Controller-vs-@RestController/)
 
 ### **메서드 매핑**
 
-[@RequestMapping](https://www.notion.so/RequestMapping-d7b845a51e0344f880bc36a08e1b6b04?pvs=21)
+> [@RequestMapping]
 
-[@PostMapping](https://www.notion.so/PostMapping-d4bf9b9977f147359cb7aee59ace85a4?pvs=21)
+> [@PostMapping]
 
-[@GetMapping](https://www.notion.so/GetMapping-336a2eaa067f404c8014734bf499a86e?pvs=21)
+> [@GetMapping]
 
-[@PutMapping](https://www.notion.so/PutMapping-1ca0390740374c87bba41a4ccfe037a9?pvs=21)
+> [@PutMapping]
 
-[@DeleteMapping](https://www.notion.so/DeleteMapping-d32420e4e05f4eb7ae84091708efd315?pvs=21)
+> [@DeleteMapping]
 
 ### **매개변수**
 
