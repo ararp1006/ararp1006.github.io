@@ -48,6 +48,6 @@ mermaid: true
 ![image](https://github.com/ararp1006/Algorithm/assets/130068083/a916d91a-c0aa-459c-acf7-078cd421021d)
 
 
-> Controller()
+> [Controller](https://ararp1006.github.io/posts/Controller/)
 
 [^fn-nth-2]: The 2nd footnote source

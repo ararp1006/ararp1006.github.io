@@ -51,15 +51,13 @@ Controller은 MVC에서 C에 해당 하며 주로 사용자의 요청을 처리 
     컨트롤러는 테스트하기 쉬운 단위입니다. 단위 테스트 및 통합 테스트를 통해 컨트롤러의 동작을 검증하고 애플리케이션의 안정성을 확보하는 데 도움이 됩니다.
 
 
-## ****Controller 구조****
+## ****Controller 애노테이션****
 
 [HandlerMethod](https://ararp1006.github.io/posts/HandlerMethod/)
 
-### **컨트롤러 정의**
-
 [@Controller vs @RestController](https://ararp1006.github.io/posts/2023-12-01-@Controller-vs-@RestController/)
 
-### **메서드 매핑**
+[MethodMapping](https://ararp1006.github.io/posts/%EB%A7%A4%EC%84%9C%EB%93%9C-%EB%A7%A4%ED%95%91/)
 
 > [@RequestMapping]
 
@@ -67,19 +65,19 @@ Controller은 MVC에서 C에 해당 하며 주로 사용자의 요청을 처리 
 
 > [@GetMapping]
 
-> [@PutMapping]
+> [@PMapping]
 
 > [@DeleteMapping]
 
-### **매개변수**
+#### **매개변수 애노테이션**
 
-[@RequestParam](https://www.notion.so/RequestParam-370ef7285ca742318843939083f4bd8d?pvs=21)
+> [@RequestParam]
 
-[@**PathVariable**](https://www.notion.so/PathVariable-86e5cfc437d5401993f8db03f37998f7?pvs=21)
+> [@PathVariable]
 
-[**@RequestBody**](https://www.notion.so/RequestBody-938c2ed1e94646d5862206c9dc94ef2e?pvs=21)
+> [@RequestBody]
 
-### **비즈니스 로직 처리**
 
-### 반환
+
+
 
