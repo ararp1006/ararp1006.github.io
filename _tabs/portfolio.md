@@ -39,7 +39,7 @@ order: 1
 
 > [AWS 배포](https://ararp1006.github.io/posts/cloud/)
 
-> 이미지 업로드
+> [이미지 업로드](https://ararp1006.github.io/posts/%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%85%EB%A1%9C%EB%93%9C/)
 
 
  **[오류해결]**
