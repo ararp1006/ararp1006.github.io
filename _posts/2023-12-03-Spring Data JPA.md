@@ -74,11 +74,6 @@ JPA에서는 데이터베이스의 테이블과 매핑되는 자바 클래스를
 각 엔티티는 데이터베이스 레코드의 인스턴스와 대응 됨
 
 
-> [@Entity]
-
-> @Builder
-
-
 ### **<span style = 'background-color: #E6E6FA'>엔티티 매핑(Entity Mapping)</span>**
 
 JPA에서는 어노테이션을 사용하여 자바 엔티티 클래스와 데이터베이스 스키마 간의 매핑을 정의
@@ -87,11 +82,15 @@ JPA에서는 어노테이션을 사용하여 자바 엔티티 클래스와 데�
 
 @Table 어노테이션은 해당 엔티티가 매핑될 데이터베이스 테이블을 지정
 
-> [Mapping이란?]
+> [Mapping이란?](https://ararp1006.github.io/posts/Mapping/)
 
 
-### **<span style = 'background-color: #E6E6FA'>관계 매핑(Relationship Mapping)</span>**
+### **<span style = 'background-color: #E6E6FA'>[관계 매핑(Relationship Mapping)]()</span>**
 
 객체와 관계형 데이터베이스 테이블이 어떻게 매핑되는가
 
 [Hibernate 문서](https://docs.jboss.org/hibernate/orm/5.6/userguide/html_single/Hibernate_User_Guide.html#associations)
+
+
+
+### **<span style = 'background-color: #E6E6FA'>[JPA 관련 애노테이션](https://ararp1006.github.io/posts/JPA-Annotation/)</span>**

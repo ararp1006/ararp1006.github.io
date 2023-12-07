@@ -12,7 +12,7 @@ mermaid: true
 
 **<span style = 'background-color: #E6E6FA'>1.객체-테이블 매핑</span>**
 
-- [`@Entity`](): 클래스를 엔티티(테이블)로 매핑합니다.(필수)
+- [`@Entity`](https://ararp1006.github.io/posts/@Entity/): 클래스를 엔티티(테이블)로 매핑합니다.(필수)
 - `@Table`: 엔티티와 매핑될 테이블의 정보를 설정합니다.
 - `@Column`: 필드를 열(컬럼)로 매핑하며, 열의 속성을 설정합니다.
 - `@Id`: 엔티티의 기본 키(primary key) 필드를 지정합니다.(필수)
