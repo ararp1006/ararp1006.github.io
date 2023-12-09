@@ -1,0 +1,28 @@
+---
+title: SQL Mapper
+date: 2023-12-06 23:00:00 +0900
+categories: [Study,JDBC]
+tags: [Study, JDBC]
+math: true
+mermaid: true
+
+---
+
+
+![image](https://github.com/ararp1006/mainProject/assets/130068083/26f88124-6162-4bcd-8150-46822f0fe97a)
+
+SQL Mapper는 개발자가 직접 SQL문을 작성해 데이터베이스 데이터를 다루는 Persistence Framework이다. 객체와 테이블 간의 관계를 직접 매핑하는 것이 아닌, SQL문을 실행해 쿼리 수행 결과를 어떤 객체에 매핑할지 바인딩 하는 방법이다. 따라서 DBMS에 종속적인 방법이라고 할 수 있다. 대표적으로 MyBatis가 있다.
+
+**장점**
+
+- JDBC를 사용할 때 발생하는 불편함을 줄일 수 있다.
+- SQL이 비즈니스 로직과 분리되어 유지보수가 용이하다.
+- 세부적인 SQL 변경시 편리하다
+- 기존에 SQL문법을 그대로 적용할 수 있어 새로운 기술을 학습하지 않아도 된다.
+
+**단점**
+
+- DBMS 별로 SQL 문법이 다르다.
+- 개발자가 직접 SQL문을 작성해야 한다.
+- DBMS 변경시 SQL문을 재사용하기 어렵다.
+- 객체와 테이블간 패러다임 불일치가 발생한다
