@@ -1,8 +1,8 @@
 ---
 title: SQL Mapper
 date: 2023-12-06 23:00:00 +0900
-categories: [Study,JDBC]
-tags: [Study, JDBC]
+categories: [Spring,Spring MVC]
+tags: [Study, Spring MVC]
 math: true
 mermaid: true
 

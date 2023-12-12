@@ -15,23 +15,32 @@ layout: page
 {% for category in sort_categories %}
   {% assign category_name = category | first %}
   {% assign posts_of_category = category | last %}
-  {% assign first_post = posts_of_category | first %}
 
-  {% if category_name == first_post.categories[0] %}
-    {% assign sub_categories = '' | split: '' %}
+  {% assign main_category = '' %}
+  {% assign sub_categories = '' | split: '' %}
 
-    {% for post in posts_of_category %}
-      {% assign second_category = post.categories[1] %}
-      {% if second_category %}
-        {% unless sub_categories contains second_category %}
-          {% assign sub_categories = sub_categories | push: second_category %}
+  {% for post in posts_of_category %}
+    {% assign post_categories = post.categories %}
+    {% assign post_main_category = post_categories[0] %}
+    {% assign post_sub_category = post_categories[1] %}
+
+    {% if post_main_category == category_name %}
+      {% if main_category == '' %}
+        {% assign main_category = post_main_category %}
+      {% endif %}
+
+      {% if post_sub_category and post_sub_category != post_main_category %}
+        {% unless sub_categories contains post_sub_category %}
+          {% assign sub_categories = sub_categories | push: post_sub_category %}
         {% endunless %}
       {% endif %}
-    {% endfor %}
+    {% endif %}
+  {% endfor %}
 
-    {% assign sub_categories = sub_categories | sort %}
-    {% assign sub_categories_size = sub_categories | size %}
+  {% assign sub_categories = sub_categories | sort %}
+  {% assign sub_categories_size = sub_categories | size %}
 
+  {% if main_category != '' %}
     <div class="card categories">
       <!-- top-category -->
       <div
@@ -41,11 +50,11 @@ layout: page
         <span class="ms-2">
           <i class="far fa-folder{% if sub_categories_size > 0 %}-open{% endif %} fa-fw"></i>
 
-          {% capture _category_url %}/categories/{{ category_name | slugify | url_encode }}/{% endcapture %}
-          <a href="{{ _category_url | relative_url }}" class="mx-2">{{ category_name }}</a>
+          {% capture _category_url %}/categories/{{ main_category | slugify | url_encode }}/{% endcapture %}
+          <a href="{{ _category_url | relative_url }}" class="mx-2">{{ main_category }}</a>
 
           <!-- content count -->
-          {% assign top_posts_size = site.categories[category_name] | size %}
+          {% assign top_posts_size = site.categories[main_category] | size %}
           <span class="text-muted small font-weight-light">
             {% if sub_categories_size > 0 %}
               {{ sub_categories_size }}
