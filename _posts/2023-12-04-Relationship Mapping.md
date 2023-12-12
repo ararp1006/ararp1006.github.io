@@ -2,8 +2,8 @@
 title: 관계 매핑(Relationship Mapping)
 
 date: 2023-12-04 23:00:00 +0900
-categories: [Study,JPA]
-tags: [Study, JPA]
+categories: [🌼Spring,Spring Data JPA]
+tags: [ JPA]
 math: true
 mermaid: true
 

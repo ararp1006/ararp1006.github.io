@@ -2,8 +2,8 @@
 title: Spring Data JPA
 
 date: 2023-12-03 23:00:00 +0900
-categories: [Study, JPA]
-tags: [Study, JPA]
+categories: [🌼Spring, Spring Data JPA]
+tags: [JPA]
 math: true
 mermaid: true
 

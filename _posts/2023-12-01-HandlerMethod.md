@@ -2,8 +2,8 @@
 title: HandlerMethod
 
 date: 2023-11-23 19:00:00 +0900
-categories: [Study, Spring MVC]
-tags: [Study, Controller, HandlerMethod]
+categories: [🌼Spring, Spring MVC]
+tags: [ Controller, HandlerMethod]
 math: true
 mermaid: true
 

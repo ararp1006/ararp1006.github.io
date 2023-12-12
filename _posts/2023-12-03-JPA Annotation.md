@@ -2,8 +2,8 @@
 title: 'JPA Annotation'
 
 date: 2023-12-03 23:00:00 +0900
-categories: [Study,Annotation]
-tags: [Study, Annotation]
+categories: [🌼Spring,Spring Data JPA]
+tags: [JPA, Annotation]
 math: true
 mermaid: true
 

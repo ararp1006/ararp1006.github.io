@@ -2,7 +2,7 @@
 title: Spring Security
 
 date: 2023-11-28 13:00:00 +0900
-categories: [Spring, Spring Security]
+categories: [🌼Spring, Spring Security]
 tags: [Spring,Cloud]
 math: true
 mermaid: true

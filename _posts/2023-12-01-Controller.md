@@ -2,8 +2,8 @@
 title: Controller
 
 date: 2023-12-02 01:00:00 +0900
-categories: [Study, Spring MVC]
-tags: [Study, Controller]
+categories: [🌼Spring, Spring MVC]
+tags: [Controller]
 math: true
 mermaid: true
 

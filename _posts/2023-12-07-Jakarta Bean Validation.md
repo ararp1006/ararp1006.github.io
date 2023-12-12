@@ -1,8 +1,8 @@
 ---
 title: Jakarta Bean Validation
 date: 2023-12-07 23:00:00 +0900
-categories: [Study,Annotation]
-tags: [Study, Annotation ]
+categories: [🌼Spring,Annotation]
+tags: [Annotation ]
 math: true
 mermaid: true
 
