@@ -50,13 +50,14 @@ order: 1
 
 ## <span style = 'background-color: #E6E6FA'>**[📜개인 기능 설명]**</span>
 
-- 이메일인증
+- [이메일 인증](https://ararp1006.github.io/posts/%EA%B3%84%EC%B8%B5%ED%98%95-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90/)
 
-- DevOps
+- [DevOps](https://ararp1006.github.io/posts/cloud/)
 
-- 로드밸런싱
+- [로드밸런싱](https://ararp1006.github.io/posts/cloud/)
 
-- 이미지 업로드
+- [이미지 업로드](https://ararp1006.github.io/posts/%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%85%EB%A1%9C%EB%93%9C/)
+
 
 <details>
 <summary>리뷰 API</summary>
@@ -131,19 +132,13 @@ order: 1
 
 - [Spring Security 동작원리??](https://ararp1006.github.io/posts/Spring-Security/)
 
-- [JWT vs Session)()
-
-- [이미지 업로드는 어떻게 하지?](https://ararp1006.github.io/posts/%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%85%EB%A1%9C%EB%93%9C/)
-
-- [이메일 인증도 하고싶은데..](https://ararp1006.github.io/posts/%EA%B3%84%EC%B8%B5%ED%98%95-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90/)
+- [JWT vs Session](https://ararp1006.github.io/posts/Session/)
 
 - [Auditable 오류해결](https://ararp1006.github.io/posts/Auditable-%EC%98%A4%EB%A5%98%ED%95%B4%EA%B2%B0/)
 
 - [스택 오버플로우 오류해결](https://ararp1006.github.io/posts/%EC%8A%A4%ED%83%9D%EC%98%A4%EB%B2%84%ED%94%8C%EB%A1%9C%EC%9A%B0-%EC%98%A4%EB%A5%98%ED%95%B4%EA%B2%B0/)
 
-- [DevOps](https://ararp1006.github.io/posts/cloud/)
 
-- [성능 최적화를 위한 로드밸런싱?](https://ararp1006.github.io/posts/Nginx/)
 
 
 
