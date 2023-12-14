@@ -1,6 +1,6 @@
 ---
 title: JDBC,SQLMapper,ORM
-date: 2023-12-06 23:00:00 +0900
+date: 2023-12-11 23:00:00 +0900
 categories: [Study, DataBase]
 tags: [DataBase]
 math: true
