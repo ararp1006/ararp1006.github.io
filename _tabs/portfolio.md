@@ -50,11 +50,11 @@ order: 1
 
 ## <span style = 'background-color: #E6E6FA'>**[📜개인 기능 설명]**</span>
 
-- [이메일 인증](https://ararp1006.github.io/posts/%EA%B3%84%EC%B8%B5%ED%98%95-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90/)
+- [이메일 인증](https://ararp1006.github.io/posts/%EC%9D%B4%EB%A9%94%EC%9D%BC%EC%9D%B8%EC%A6%9D/)
 
-- [DevOps](https://ararp1006.github.io/posts/cloud/)
+- [AWS서버구축](https://ararp1006.github.io/posts/cloud/)
 
-- [로드밸런싱](https://ararp1006.github.io/posts/cloud/)
+- [Nginx](https://ararp1006.github.io/posts/Nginx/)
 
 - [이미지 업로드](https://ararp1006.github.io/posts/%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%85%EB%A1%9C%EB%93%9C/)
 
