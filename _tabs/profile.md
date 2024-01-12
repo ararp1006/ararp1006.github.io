@@ -8,7 +8,7 @@ order: 4
 
 ## <span style = 'background-color: #E6E6FA'>**[Introduce]**</span>
 
-- 데이터베이스 설계부터 로드밸런싱까지 고려한 개발자 입니다.
+- 데이터베이스 설계부터 성능까지 고려한 개발자 입니다.
 
 - 프론트엔드와의 협업을 통해 CORS에러,토큰에러 등 다양한 문제를 해결한 개발자 입니다.
 
@@ -19,6 +19,8 @@ order: 4
 - 책임감과 효율적인 커뮤니케이션을 중시하며 팀장으로서 칸반보드를 활용하여 
 
     프로젝트 일정을 계획하고, 그에 따라 API를 체계적으로 구현했습니다.
+
+- 프로젝트에 대한 고민과 배운 것을 기록중입니다.
  
 
 
@@ -34,6 +36,7 @@ order: 4
 - Spring,SpringBoot,SpringSecurity,JPA
 - Mysql
 - Gradle
+- AWS EC2, AWS RDB, Docker
 - Git
 
 
@@ -53,12 +56,13 @@ order: 4
 | --- | --- |
 | 프로젝트 소개 | 🛒 TechComputeMall|
 | 개발 인원 | 백엔드 4명 |
-| 담당 역할 | 백엔드 팀장, API 개발(리뷰,문의사항,주문),이미지 업로드, 
+| 담당 역할 | 백엔드 팀장, RESTfulAPI 개발(리뷰,문의사항,주문),이미지 업로드, 
 |           | 이메일 인증, OAUTH2로그인, DevOps, 로드밸런싱  |
 | 개발 기간 | 2023.09 - 10 / 4주  |
 | ⚙️ 개발환경 | IntelliJ IDEA, JDK 11, MySQL, Maven, Git, GitHub, AWS|
 | ⚒️ 사용 기술 | JAVA, Spring,Spring Boot,Spring Security, JWT |
 | 데이터베이스 | MySQL, H2 |
+
 
 - 다양한 종류의 모니터, 키보드, 마우스 등과 같은 주변기기들을 
 
