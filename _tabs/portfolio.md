@@ -58,6 +58,7 @@ order: 1
 
 - [이미지 업로드](https://ararp1006.github.io/posts/%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%85%EB%A1%9C%EB%93%9C/)
 
+- [OAuth2](https://ararp1006.github.io/posts/OAuth2/)
 
 <details>
 <summary>리뷰 API</summary>
@@ -110,18 +111,8 @@ order: 1
 </div>
 </details>
 
-<details>
-<summary> oauth2 </summary>
-<div markdown="1">
 
-- 구글
 
-- 네이버
-
-- 카카오
-
-</div>
-</details> 
 
 
 <hr>-----------------------------------------------
