@@ -53,6 +53,9 @@ order: 1
 
 ![image](https://github.com/ararp1006/Algorithm/assets/130068083/7718570e-b3ae-4c31-91af-7ad64a47235c)
 
+![image](https://github.com/ararp1006/Algorithm/assets/130068083/67813d34-9375-4bb5-906b-47fd78cbe1f2)
+
+
 
 ### <span style = 'background-color: #E6E6FA'>**[관리자페이지]**</span>
 > 로그인했을 때 관리자페이지가 보임
