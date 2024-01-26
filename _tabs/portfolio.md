@@ -34,6 +34,7 @@ order: 1
 
 모듈별로 업무를 나눠서 협업하기 용이했습니다.
 
+
 > ![image](https://github.com/ararp1006/Algorithm/assets/130068083/dc931afb-2da3-4719-ae7a-cd7152153624)
 
 
@@ -46,6 +47,21 @@ order: 1
 
 
 <hr>-----------------------------------------------
+
+## <span style = 'background-color: #E6E6FA'>**[JSP]**</span>
+>홈
+
+![image](https://github.com/ararp1006/Algorithm/assets/130068083/7718570e-b3ae-4c31-91af-7ad64a47235c)
+
+
+### <span style = 'background-color: #E6E6FA'>**[관리자페이지]**</span>
+> 로그인했을 때 관리자페이지가 보임
+
+>![20240124_025500](https://github.com/ararp1006/Algorithm/assets/130068083/89b034ca-acde-4470-bca7-5ca4f4ee1878)
+
+>![image](https://github.com/ararp1006/Algorithm/assets/130068083/09ae4f18-fcc3-4f20-ad0a-d89658a54ca0)
+
+>![image](https://github.com/ararp1006/Algorithm/assets/130068083/a11f6637-0cb3-44cf-8ccc-b789deeec43d)
 
 
 ## <span style = 'background-color: #E6E6FA'>**[📜개인 기능 설명]**</span>
