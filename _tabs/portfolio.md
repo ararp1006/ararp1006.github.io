@@ -48,7 +48,7 @@ order: 1
 
 <hr>-----------------------------------------------
 
-## <span style = 'background-color: #E6E6FA'>**[JSP]**</span>
+## <span style = 'background-color: #E6E6FA'>**[JSP](https://ararp1006.github.io/posts/HOME/)**</span>
 >홈
 
 ![image](https://github.com/ararp1006/Algorithm/assets/130068083/7718570e-b3ae-4c31-91af-7ad64a47235c)

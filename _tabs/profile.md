@@ -32,7 +32,7 @@ order: 4
 - portfolio : [https://ararp1006.github.io/portfolio/](https://ararp1006.github.io/portfolio/)
 
 ##  <span style = 'background-color: #E6E6FA'> **[My Skil]**
-- Java
+- Java ,javascript, ajax
 - Spring,SpringBoot,SpringSecurity,JPA
 - Mysql
 - Gradle
