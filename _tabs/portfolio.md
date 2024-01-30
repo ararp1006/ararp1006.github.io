@@ -74,7 +74,7 @@ order: 1
 
 - [이메일 인증](https://ararp1006.github.io/posts/%EC%9D%B4%EB%A9%94%EC%9D%BC%EC%9D%B8%EC%A6%9D/)
 
-- [이메일 중복체크]()
+- [이메일 중복체크](https://ararp1006.github.io/posts/%EC%9D%B4%EB%A9%94%EC%9D%BC-%EC%A4%91%EB%B3%B5%EC%B2%B4%ED%81%AC/)
 
 - [AWS서버구축](https://ararp1006.github.io/posts/cloud/)
 
@@ -105,7 +105,7 @@ order: 1
 
 - [스택 오버플로우 오류해결](https://ararp1006.github.io/posts/%EC%8A%A4%ED%83%9D%EC%98%A4%EB%B2%84%ED%94%8C%EB%A1%9C%EC%9A%B0-%EC%98%A4%EB%A5%98%ED%95%B4%EA%B2%B0/)
 
--[415에러 해결]()
+-[415에러 해결](https://ararp1006.github.io/posts/415%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0/)
 
 
 
