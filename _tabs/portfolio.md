@@ -48,7 +48,7 @@ order: 1
 
 <hr>-----------------------------------------------
 
-## <span style = 'background-color: #E6E6FA'>**[JSP](https://ararp1006.github.io/posts/HOME/)**</span>
+## <span style = 'background-color: #E6E6FA'>**[JSP]**</span>
 >홈
 
 ![image](https://github.com/ararp1006/Algorithm/assets/130068083/7718570e-b3ae-4c31-91af-7ad64a47235c)
@@ -68,8 +68,13 @@ order: 1
 
 
 ## <span style = 'background-color: #E6E6FA'>**[📜개인 기능 설명]**</span>
+- [Home&메뉴](https://ararp1006.github.io/posts/HOME/)
+
+- [회원가입](https://ararp1006.github.io/posts/HOME/)
 
 - [이메일 인증](https://ararp1006.github.io/posts/%EC%9D%B4%EB%A9%94%EC%9D%BC%EC%9D%B8%EC%A6%9D/)
+
+- [이메일 중복체크]()
 
 - [AWS서버구축](https://ararp1006.github.io/posts/cloud/)
 
@@ -79,56 +84,8 @@ order: 1
 
 - [OAuth2](https://ararp1006.github.io/posts/OAuth2/)
 
-<details>
-<summary>리뷰 API</summary>
-<div markdown="1"> 
-
-- 리뷰등록
-
-- 리뷰 수정
-
-- 리뷰 삭제
-
-- 리뷰 이미지 등록
-
-- 평점 추가
-
-- 평점 삭제
-</div>
-</details>
 
 
-<details>
-<summary> 문의사항 API</summary>
-<div markdown="1">
-
-- 문의사항 등록
-
-- 문의사항 상세조회
-
-- 문의사항 삭제
-
-- 문의사항 수정
-
-- 문의사항 리스트 조회
-
-</div>
-</details>
-
-<details>
-<summary> 주문 API</summary>
-<div markdown="1">
-
-- 상품에서 바로 주문
-
-- 결제 확인
-
-- 사용자의 주문내역
-
-- 주문취소
-
-</div>
-</details>
 
 
 
@@ -147,6 +104,8 @@ order: 1
 - [Auditable 오류해결](https://ararp1006.github.io/posts/Auditable-%EC%98%A4%EB%A5%98%ED%95%B4%EA%B2%B0/)
 
 - [스택 오버플로우 오류해결](https://ararp1006.github.io/posts/%EC%8A%A4%ED%83%9D%EC%98%A4%EB%B2%84%ED%94%8C%EB%A1%9C%EC%9A%B0-%EC%98%A4%EB%A5%98%ED%95%B4%EA%B2%B0/)
+
+-[415에러 해결]()
 
 
 
