@@ -1,6 +1,6 @@
 ---
 title: 웹 스토리지(Web Stroage)
-date: 2024-02-20 23:00:00 +0900
+date: 2024-02-02 23:00:00 +0900
 categories: [Study,Programming/Web ]
 tags: [Study, Programming/Web ]
 math: true
