@@ -27,6 +27,10 @@ mermaid: true
 웹 스토리지는 로컬 스토리지와 세션 스토리지가 있습니다.
 
 
+
+![image](https://github.com/ararp1006/Algorithm/assets/130068083/62330abd-ad8d-43fe-a095-2567b2320d9c)
+
+
 ## **로컬 스토리지 (Local Storage)**
 
 로컬 스토리지는 브라우저에 반영구적으로 데이터를 저장하며, 브라우저를 종료해도 데이터가 유지됩니다.
