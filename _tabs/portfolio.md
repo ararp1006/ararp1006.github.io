@@ -101,11 +101,11 @@ order: 1
 
 - [JWT vs Session](https://ararp1006.github.io/posts/Session/)
 
-- [Auditable 오류해결](https://ararp1006.github.io/posts/Auditable-%EC%98%A4%EB%A5%98%ED%95%B4%EA%B2%B0/)
+- [Auditable 오류해결](https://ararp1006.github.io/posts/Auditable-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0/)
 
 - [스택 오버플로우 오류해결](https://ararp1006.github.io/posts/%EC%8A%A4%ED%83%9D%EC%98%A4%EB%B2%84%ED%94%8C%EB%A1%9C%EC%9A%B0-%EC%98%A4%EB%A5%98%ED%95%B4%EA%B2%B0/)
 
--[415에러 해결](https://ararp1006.github.io/posts/415%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0/)
+- [415에러 해결](https://ararp1006.github.io/posts/415%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0/)
 
 
 
