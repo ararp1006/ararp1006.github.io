@@ -1,13 +1,13 @@
 ---
 title: equals(),hashCode(),==
-date: 2023-12-17 23:00:00 +0900
+date: 2024-02-17 23:00:00 +0900
 categories: [JAVA, Java의 특징]
 tags: [JAVA]
 math: true
 mermaid: true
 
 ---
-## **== 연산자 **
+## **== 연산자**
 
 피연산자가 primitive type(int, double, boolean, ...)일 때는 값이 같은지 비교하고,
 
@@ -17,13 +17,13 @@ mermaid: true
 
 ```java
 
-String str1 = "hello";
-String str2 = "hello";
+String str1 = "hello";
+String str2 = "hello";
 System.out.println(str1 == str2);//true
 
-String str3 = new String("hello");
-String str4 = new String("hello");
-System.out.println(str3 == str4);//false
+String str3 = new String("hello");
+String str4 = new String("hello");
+System.out.println(str3 == str4);//false
 ```
 
 ## **equals()**
@@ -35,12 +35,12 @@ primitive type은 내용이 같은지 검사하고, reference type은 객체의 
 '==' 연산자와 다른 점은 완전히 같은 객체를 가리키지 않아도 개발자가 true로 만들 수 있습니다.
 
 ```java
-String str1 = "hello";
-String str2 = "hello";
+String str1 = "hello";
+String str2 = "hello";
 System.out.println(str1.equals(str2));//true
 
-String str3 = new String("hello");
-String str4 = new String("hello");
+String str3 = new String("hello");
+String str4 = new String("hello");
 System.out.println(str3.equals(str4));//true
 
 ```
@@ -92,7 +92,7 @@ p1과 p2는 같다
 ![image](https://github.com/ararp1006/Algorithm/assets/130068083/44bbaa08-271b-4dcc-b952-8d26dfe6d87c)
 
 
-## **hashCode() **
+## **hashCode()**
 
 객체의 해쉬코드(hash code)를 반환하는 메서드입니다.
 
