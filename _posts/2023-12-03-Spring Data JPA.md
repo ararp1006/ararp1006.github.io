@@ -2,7 +2,7 @@
 title: Spring Data JPA
 
 date: 2023-12-03 23:00:00 +0900
-categories: [🌼Spring, Spring Data JPA]
+categories: [JPA, JPA Basic]
 tags: [JPA]
 math: true
 mermaid: true
@@ -92,5 +92,4 @@ JPA에서는 어노테이션을 사용하여 자바 엔티티 클래스와 데�
 [Hibernate 문서](https://docs.jboss.org/hibernate/orm/5.6/userguide/html_single/Hibernate_User_Guide.html#associations)
 
 
-
-### **<span style = 'background-color: #E6E6FA'>[JPA 관련 애노테이션](https://ararp1006.github.io/posts/JPA-Annotation/)</span>**
+**<span style = 'background-color: #E6E6FA'>[JPA 관련 애노테이션](https://ararp1006.github.io/posts/JPA-Annotation/)</span>**
