@@ -55,6 +55,18 @@ order: 1
 
 ![image](https://github.com/ararp1006/Algorithm/assets/130068083/67813d34-9375-4bb5-906b-47fd78cbe1f2)
 
+>마이페이지
+
+![image](https://github.com/ararp1006/mainProject/assets/130068083/6644e8d6-62f6-40d2-84ee-11df0be3018c)
+
+![image](https://github.com/ararp1006/mainProject/assets/130068083/6e5b1f67-4359-4b47-b874-c99af538c43d)
+
+![image](https://github.com/ararp1006/mainProject/assets/130068083/79cc616f-0405-48e2-b4f5-211d5ba20af3)
+
+>결제
+
+![image](https://github.com/ararp1006/mainProject/assets/130068083/cf049f81-ed79-4265-a007-0a07d7bb5697)
+
 
 
 ### <span style = 'background-color: #E6E6FA'>**[관리자페이지]**</span>
