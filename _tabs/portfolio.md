@@ -90,7 +90,7 @@ order: 1
 
 
 ## <span style = 'background-color: #E6E6FA'>**[📜개인 기능 설명]**</span>
-- [Home&메뉴](https://ararp1006.github.io/posts/HOME/)
+- [로그인 토큰 저장](https://ararp1006.github.io/posts/HOME/)
 
 - [회원가입](https://ararp1006.github.io/posts/HOME/)
 
