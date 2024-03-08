@@ -48,7 +48,14 @@ order: 1
 
 <hr>-----------------------------------------------
 
-## <span style = 'background-color: #E6E6FA'>**[JSP]**</span>
+
+
+ <details>
+        <summary>
+            <span style="background-color: #E6E6FA; font-size: 25px; font-weight: bold;">[JSP]</span>
+        </summary>
+        <div markdown="1">
+
 >홈
 
 ![image](https://github.com/ararp1006/Algorithm/assets/130068083/7718570e-b3ae-4c31-91af-7ad64a47235c)
@@ -77,6 +84,9 @@ order: 1
 >![image](https://github.com/ararp1006/Algorithm/assets/130068083/09ae4f18-fcc3-4f20-ad0a-d89658a54ca0)
 
 >![image](https://github.com/ararp1006/Algorithm/assets/130068083/a11f6637-0cb3-44cf-8ccc-b789deeec43d)
+
+</div>
+</details>
 
 
 ## <span style = 'background-color: #E6E6FA'>**[📜개인 기능 설명]**</span>
