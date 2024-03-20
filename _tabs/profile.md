@@ -35,7 +35,7 @@ Nginx를 활용한 트래픽 분산, 그리고 AWS 배포 등 프로젝트 전�
 
 ##  <span style = 'background-color: #E6E6FA'> **[My Skil]**
 - Java, Javascript
-- Spring,SpringBoot,SpringSecurity,JPA
+- Spring,SpringBoot,SpringSecurity
 - Mysql, Redis
 - Gradle
 - AWS, Docker, CI/CD
@@ -61,9 +61,9 @@ Nginx를 활용한 트래픽 분산, 그리고 AWS 배포 등 프로젝트 전�
 | 담당 역할 | 백엔드 팀장, RESTfulAPI 개발(리뷰,문의사항,주문),이미지 업로드, 
 |           | 이메일 인증, OAUTH2로그인, DevOps, 로드밸런싱  |
 | 개발 기간 | 2023.09 - 10 / 4주  |
-| ⚙️ 개발환경 | IntelliJ IDEA, JDK 11, MySQL, Maven, Git, GitHub, AWS|
+| ⚙️ 개발환경 | IntelliJ IDEA, JDK 11, MySQL, Gradle, Git, AWS, Docker, CI/CD|
 | ⚒️ 사용 기술 | JAVA, Spring,Spring Boot,Spring Security, JWT |
-| 데이터베이스 | MySQL, H2 |
+| 데이터베이스 | MySQL, Redis, H2 |
 
 
 - 다양한 종류의 모니터, 키보드, 마우스 등과 같은 주변기기들을 
