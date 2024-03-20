@@ -3,25 +3,26 @@ icon: fas fa-solid fa-user
 order: 4
 ---
 
-## **비즈니스와 기술간의 연결고리 백엔드 개발자 박아름입니다.**
+## **개발이 정말로 즐거워서, 꿈꾸던 개발자로 거듭나고 싶습니다**
 
-### **비지니스 목표에 맞게, 기술적 실현을 위해 솔루션을 개발하는 백엔드 개발자가 되고 싶습니다**
+### **어떤 어려움이든 해결하고 도움이 되는 개발자가 되고 싶습니다**
+
 
 ## <span style = 'background-color: #E6E6FA'>**[Introduce]**</span>
 
-- 데이터베이스 설계부터 성능까지 고려한 개발자 입니다.
+Java,Jsp,SpringBoot,Redis,Mysql,Aws등을 사용하여 쇼핑몰프로젝트를 배포하였습니다.
 
-- 프론트엔드와의 협업을 통해 CORS에러,토큰에러 등 다양한 문제를 해결한 개발자 입니다.
+RESTful API, OAuth2, 이메일 인증, 이미지 업로드, 아임포트를 이용한 결제시스템,
+Nginx를 활용한 트래픽 분산, 그리고 AWS 배포 등 프로젝트 전반에 대한 책임을 맡아 성공적으로 완수하였습니다.
 
--  노력과 성장을 통해 팀에서 및 멘토님으로부터 좋은 코드에 대한 고민을 한다는
+프론트엔드와의 소통을 통해 CORS에러,토큰에러 등 다양한 문제를 해결한 경험이 있습니다.
 
-    긍정적인 평가를 받았습니다
+노력과 성장을 통해 팀원 및 멘토님으로부터 좋은 코드에 대한 고민을 한다는 긍정적인 평가를 받았습니다
 
-- 책임감과 효율적인 커뮤니케이션을 중시하며 팀장으로서 칸반보드를 활용하여 
+책임감과 효율적인 커뮤니케이션을 중시하며 팀장으로서 칸반보드를 활용하여
+프로젝트 일정을 계획하고, 계획에 맞게 실행했습니다.
 
-    프로젝트 일정을 계획하고, 그에 따라 API를 체계적으로 구현했습니다.
-
-- 프로젝트에 대한 고민과 배운 것을 기록중입니다.
+지금은 프로젝트를 만들면서 느낀 고민과 공공데이터API, 알고리즘, 운영체제 등 배운 것을 블로그에 기록중입니다.
  
 
 
@@ -33,11 +34,11 @@ order: 4
 - portfolio : [https://ararp1006.github.io/portfolio/](https://ararp1006.github.io/portfolio/)
 
 ##  <span style = 'background-color: #E6E6FA'> **[My Skil]**
-- Java ,javascript, ajax
+- Java, Javascript
 - Spring,SpringBoot,SpringSecurity,JPA
-- Mysql
+- Mysql, Redis
 - Gradle
-- AWS EC2, AWS RDB, Docker
+- AWS, Docker, CI/CD
 - Git
 
 
