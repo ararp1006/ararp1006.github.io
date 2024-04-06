@@ -9,11 +9,7 @@ mermaid: true
 ---
 ## **== 연산자**
 
-피연산자가 primitive type(int, double, boolean, ...)일 때는 값이 같은지 비교하고,
-
-피연산자가 그 외 객체, reference type일 때 가리키는 주소가 같은지를 검사합니다.
-
-'==' 연산자는 두 객체가 같은 것을 가리킬 때만 true입니다.
+**두 개의 주소가 서로 같은지** 비교합니다.
 
 ```java
 
@@ -28,11 +24,7 @@ System.out.println(str3 == str4);//false
 
 ## **equals()**
 
-두 객체의 내용이 같은지 검사하는 메서드 입니다.
-
-primitive type은 내용이 같은지 검사하고, reference type은 객체의 주소가 같은지 검사합니다.
-
-'==' 연산자와 다른 점은 완전히 같은 객체를 가리키지 않아도 개발자가 true로 만들 수 있습니다.
+**두 개의 값이 서로 같은지** 비교합니다.
 
 ```java
 String str1 = "hello";
