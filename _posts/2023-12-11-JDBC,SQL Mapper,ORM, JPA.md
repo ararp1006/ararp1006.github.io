@@ -1,7 +1,7 @@
 ---
 title: JDBC,SQLMapper,ORM
 date: 2023-12-11 23:00:00 +0900
-categories: [DataBase]
+categories: [DataBase,📚Study]
 tags: [DataBase]
 math: true
 mermaid: true
